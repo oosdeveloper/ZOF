@@ -5,7 +5,6 @@ ZOF WordPress Plugins
 
 The ZOF Calorie Calculator Plugin is a powerful and user-friendly tool for WordPress websites that allows users to calculate their daily calorie targets based on various factors such as age, gender, weight, height, activity level, and fitness goals. This plugin is perfect for individuals looking to maintain, lose, or gain weight while providing an engaging and informative user experience.
 
-![Plugin Screenshot](screenshot.png)
 
 ## Key Features
 
