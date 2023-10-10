@@ -16,7 +16,7 @@ The ZOF Calorie Calculator Plugin is a powerful and user-friendly tool for WordP
 2. Log in to your WordPress admin panel.
 3. Navigate to **Plugins > Add New**.
 4. Click the **Upload Plugin** button.
-5. Choose the `zof-calorie-calculator.zip` file and click **Install Now**.
+5. Choose the `zof-ae-calorie-calculator.zip` file and click **Install Now**.
 6. Once installed, activate the plugin.
 
 ## Usage
